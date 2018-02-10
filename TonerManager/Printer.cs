@@ -5,6 +5,7 @@ using System.Text;
 
 namespace TonerManager
 {
+    //default storage of information about printer
     public class Printer : IComparable<Printer>
     {
         public Printer()
