@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TonerManager.Form1">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAQSAgAAAAAACAAAAigAAAAAABAAAwQAAAAQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TonerManager.FormLoad" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAABAAAACAAAICAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TonerManager.Toner">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAEAIGAAAAAAAAAAAA=</HashCode>
+      <FileName>Toner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TonerManager.Place">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEgAAAAAAAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Place.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TonerManager.Printer">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAAAAAAAQAAAAAAABAAAADAIAAQABQBAAAAAA=</HashCode>
+      <FileName>Printer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TonerManager.FormStorageOutput" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACEAABAAFACAAAACgRAIAoYAAQAAAAAAAAA=</HashCode>
+      <FileName>FormStorageOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TonerManager.FormStorageInput" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormStorageInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TonerManager.FormSaveToner" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAiAAABAAAFCAAAAGAgEgAgAAIAAQAAAAAAA=</HashCode>
+      <FileName>FormSaveToner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TonerManager.FormSave" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABQAQCAAAQCAIgAAAAAACAAAAAAggA=</HashCode>
+      <FileName>FormShowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TonerManager.Color">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAAAAAAABAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Colour.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
